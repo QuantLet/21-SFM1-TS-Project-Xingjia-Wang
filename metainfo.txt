@@ -4,7 +4,7 @@ Published in: 'SFM'
 
 Description: '(S)ARIMA Model for Rough Rice Futures Price from 2011 to 2021'
 
-Keywords: 'Time series', 'ARIMA', 'stationarity', 'first difference', 'Augmented Dickey-Fuller test', 'PACF', 'ACF', 'Price Forecasting'
+Keywords: 'Time series, ARIMA, stationarity, first difference, Augmented Dickey-Fuller test, PACF, ACF, Price Forecasting'
 
 Author: 'Xingjia Wang'
 
