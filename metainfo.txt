@@ -1,6 +1,6 @@
 Name of Quantlet: SFM_Rough_Rice_Futures_Price
 
-Published in: ''
+Published in: 'SFM'
 
 Description: '(S)ARIMA Model for Rough Rice Futures Price from 2011 to 2021'
 
